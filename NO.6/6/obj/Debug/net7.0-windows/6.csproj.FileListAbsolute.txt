@@ -1,0 +1,32 @@
+C:\Users\Alumnos\Documents\wow\6\bin\Debug\net7.0-windows\6.exe
+C:\Users\Alumnos\Documents\wow\6\bin\Debug\net7.0-windows\6.deps.json
+C:\Users\Alumnos\Documents\wow\6\bin\Debug\net7.0-windows\6.runtimeconfig.json
+C:\Users\Alumnos\Documents\wow\6\bin\Debug\net7.0-windows\6.dll
+C:\Users\Alumnos\Documents\wow\6\bin\Debug\net7.0-windows\6.pdb
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\_6.Form1.resources
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.csproj.GenerateResource.cache
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.AssemblyInfo.cs
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.dll
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\refint\6.dll
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.pdb
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\6.genruntimeconfig.cache
+C:\Users\Alumnos\Documents\wow\6\obj\Debug\net7.0-windows\ref\6.dll
+D:\Estructuras Repetitivas\NO.6\6\bin\Debug\net7.0-windows\6.exe
+D:\Estructuras Repetitivas\NO.6\6\bin\Debug\net7.0-windows\6.deps.json
+D:\Estructuras Repetitivas\NO.6\6\bin\Debug\net7.0-windows\6.runtimeconfig.json
+D:\Estructuras Repetitivas\NO.6\6\bin\Debug\net7.0-windows\6.dll
+D:\Estructuras Repetitivas\NO.6\6\bin\Debug\net7.0-windows\6.pdb
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\_6.Form1.resources
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.csproj.GenerateResource.cache
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.AssemblyInfoInputs.cache
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.AssemblyInfo.cs
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.csproj.CoreCompileInputs.cache
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.dll
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\refint\6.dll
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.pdb
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\6.genruntimeconfig.cache
+D:\Estructuras Repetitivas\NO.6\6\obj\Debug\net7.0-windows\ref\6.dll
