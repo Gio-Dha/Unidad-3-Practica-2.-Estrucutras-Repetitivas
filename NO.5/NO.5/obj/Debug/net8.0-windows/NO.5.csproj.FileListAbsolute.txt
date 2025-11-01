@@ -1,0 +1,16 @@
+D:\Estructuras Repetitivas\NO.5\NO.5\bin\Debug\net8.0-windows\NO.5.exe
+D:\Estructuras Repetitivas\NO.5\NO.5\bin\Debug\net8.0-windows\NO.5.deps.json
+D:\Estructuras Repetitivas\NO.5\NO.5\bin\Debug\net8.0-windows\NO.5.runtimeconfig.json
+D:\Estructuras Repetitivas\NO.5\NO.5\bin\Debug\net8.0-windows\NO.5.dll
+D:\Estructuras Repetitivas\NO.5\NO.5\bin\Debug\net8.0-windows\NO.5.pdb
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO._5.Form1.resources
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.csproj.GenerateResource.cache
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.AssemblyInfoInputs.cache
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.AssemblyInfo.cs
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.csproj.CoreCompileInputs.cache
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.dll
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\refint\NO.5.dll
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.pdb
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\NO.5.genruntimeconfig.cache
+D:\Estructuras Repetitivas\NO.5\NO.5\obj\Debug\net8.0-windows\ref\NO.5.dll
